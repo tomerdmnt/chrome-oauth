@@ -42,7 +42,9 @@ OAuth.authorize(opts, function (err, o) {
 
 ## Installation
 
+```bash
   $ component install tomerdmnt/oauth
+```
 
 ## API
 
