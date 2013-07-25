@@ -3,7 +3,7 @@
   "repo": "tomerdmnt/chrome-oauth",
   "description": "oath 1.0 component for chrome extension, using ohauth",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["oauth", "chrome", "chrome-extension"],
   "dependencies": {},
   "development": {},
   "scripts": [
