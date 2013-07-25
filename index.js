@@ -1,8 +1,6 @@
 var oh = require('./ohauth');
 var seq = require('./seq');
 
-OAuth.cbpage = 'components/tomerdmnt-chrome-oauth/callback-page.html';
-
 module.exports = function(cbpagedir) {
   // Set the chrome callback page
   cbpagedir = cbpagedir || 'components/tomerdmnt-chrome-oauth/';
