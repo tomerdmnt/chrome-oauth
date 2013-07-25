@@ -50,6 +50,3 @@ OAuth.authorize(opts, function (err, o) {
 
 Check out index.js
 
-## License
-
-  MIT
