@@ -1,0 +1,16 @@
+{
+  "name": "chrome-oauth",
+  "repo": "tomerdmnt/chrome-oauth",
+  "description": "oath 1.0 component for chrome extension, using ohauth",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js",
+    "sha.js",
+    "ohauth.js",
+    "seq.js",
+    "dropbox.js"
+  ]
+}
