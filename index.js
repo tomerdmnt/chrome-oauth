@@ -140,7 +140,7 @@ function OAuth(opts, oauthOpts) {
         url += '?' + params;
     }
 
-    oh.xhr('POST', url, self.o, data, { header: headers }, cb);
+    oh.xhr(method, url, self.o, data, { header: headers }, cb);
   };
 
   function handleTokenResponse(xhr) {
